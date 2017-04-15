@@ -1,3 +1,9 @@
 .collapse {
   display: none;
 }
+
+#root {
+  margin: 0 0;
+  background: #ffffff;
+}
+
